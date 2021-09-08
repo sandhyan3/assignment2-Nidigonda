@@ -28,3 +28,5 @@ because of its pleaseant environment and Mountains and its one of my favourite t
    * Carry Identity Proof 
    * Carry sufficient cash
 
+   **[click hear for badminton image](image.png)**
+
