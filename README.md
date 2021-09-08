@@ -18,11 +18,11 @@ because of its pleaseant environment and Mountains and its one of my favourite t
     3. pahalgam
     4. sonmarg 
  5. Srinagar city
-
-* Items to carry
-   * pack warm cloths
+ 
+ * Items to carry
+   * Pack warm cloths
    * Carry cold cream
-   * warm socks
+   * Warm socks
    * overcoats
  * To Board the flight 
    * Carry Identity Proof 
