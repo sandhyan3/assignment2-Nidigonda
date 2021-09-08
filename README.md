@@ -13,10 +13,10 @@ because of its pleaseant environment and Mountains and its one of my favourite t
  2. Kansas city 
  3. Chicago 
  4. India
-   1. Jammu and Kashmir airport 
-   2. Gulmarg
-   3. pahalgam
-   4. sonmarg 
+    1. Jammu and Kashmir airport 
+    2. Gulmarg
+    3. pahalgam
+    4. sonmarg 
  5. Srinagar city
 
 
