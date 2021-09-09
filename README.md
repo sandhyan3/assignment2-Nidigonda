@@ -48,5 +48,35 @@ because of its pleaseant environment and Mountains and its one of my favourite t
 
    > "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -*James Cameron*
 
+   ---
+# Games on arbitrary graphs
+ 
+ Let a game be played by two players on an arbitrary graph G. I.e. the current state of the game is a certain vertex. The players perform moves by turns, and move from the current vertex to an adjacent vertex using a connecting edge. Depending on the game, the person that is unable to move will either lose or win the game.
+ 
+ vector<vector<int>> adj_rev;
+
+vector<bool> winning;
+vector<bool> losing;
+vector<bool> visited;
+vector<int> degree;
+
+void dfs(int v) {
+    visited[v] = true;
+    for (int u : adj_rev[v]) {
+        if (!visited[u]) {
+            if (losing[v])
+                winning[u] = true;
+            else if (--degree[u] == 0)
+                losing[u] = true;
+            else
+                continue;
+            dfs(u);
+        }
+    }
+}
+
+[click for Games on arbitrary graphs](https://cp-algorithms.com/game_theory/games_on_graphs.html)
+
+
 
 
