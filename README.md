@@ -31,9 +31,9 @@ because of its pleaseant environment and Mountains and its one of my favourite t
    **[click hear for AboutME](AboutMe.md)**
 
    ---
-   # Foods to try
+# Foods to try
   
-  Below is the list of food and drinks one must try.
+   Below is the list of food and drinks one must try.
 
    | Food/Drinks | Location | Price |
    | ----- | ----- | ----- |
