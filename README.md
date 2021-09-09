@@ -30,5 +30,17 @@ because of its pleaseant environment and Mountains and its one of my favourite t
 
    **[click hear for AboutME](AboutMe.md)**
 
-   
+   ---
+   # Foods to try
+  
+  Below is the list of food and drinks one must try.
+
+   | Food/Drinks | Location | Price |
+   | ----- | ----- | ----- |
+   | kitkat milkshake | Hyderabad | 80 |
+   | Cobb salad | Maryville | 100 |
+   | Briyani | Hyderabad | 120 |
+   | coke | Mumbai | 60 |
+
+
 
