@@ -60,6 +60,7 @@ vector<bool> losing;
 vector<bool> visited;
 vector<int> degree;
 
+```
 void dfs(int v) {
     visited[v] = true;
     for (int u : adj_rev[v]) {
@@ -74,7 +75,7 @@ void dfs(int v) {
         }
     }
 }
-
+```
 [click for Games on arbitrary graphs](https://cp-algorithms.com/game_theory/games_on_graphs.html)
 
 
