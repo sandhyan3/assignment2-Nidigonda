@@ -42,5 +42,11 @@ because of its pleaseant environment and Mountains and its one of my favourite t
    | Briyani | Hyderabad | 120 |
    | coke | Mumbai | 60 |
 
+   ---
+# Quotes
+   > "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.- *Steve Jobs*
+
+   > "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -*James Cameron*
+
 
 
